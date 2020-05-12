@@ -1,9 +1,11 @@
 
 TITLE: 
-Nuptial - 100% Fully Responsive Free HTML5 Bootstrap Template
+Tina & Ade Wedding
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
+
+EDITED BY : ADE IHSAN HIDAYATULLAH
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
